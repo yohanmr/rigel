@@ -6,4 +6,4 @@ On Linux, just install the libsfml-dev package from the repositories. Then, comp
 Then, run the game using
 
     ./rigel
-More documentation regarding this project can be found in the documentation sub-folder.
+
